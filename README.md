@@ -1,3 +1,9 @@
+# Archived
+
+Project is being succeeded by [PetiteNet]
+
+[PetiteNet]: https://github.com/yukiisbored/PetiteNet
+
 # mylittlenet
 
 User-space networking stack implemented in Python for fun and giggles.
